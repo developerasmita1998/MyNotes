@@ -1,0 +1,30 @@
+Create new Project in github
+1. Crerate New repo in github page (name, desc, button)
+2. folder me jaakar, terminal open karna
+   Git init
+   Git add . (All files)   //   git add file name (1 file)
+   git commit -m "First commit"
+   git branch -M main
+   git remote add origin repo link
+   git push -u origin main
+
+
+Second time
+1. Git add . (All files)   //   git add file name (1 file)
+2. git commit -m "Message"
+3. git push
+
+
+Create Branch and push
+git checkout -b "second"
+1. Git add . (All files)   //   git add file name (1 file)
+2. git commit -m "Message"
+3. git push
+
+
+Merge brnach
+git pull origin/main
+git merge Main (Branch name)
+1. Git add . (All files)   //   git add file name (1 file)
+2. git commit -m "Message"
+3. git push
